@@ -1,2 +1,2 @@
 # Gorev3
-Bootstrap kullanarak resim galerisi oluşturmak
+Create an image gallery using HTML, CSS, and JavaScript. Use the Bootstrap modal structure.
